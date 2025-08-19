@@ -40,7 +40,7 @@
     <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
   <a href="https://twitter.com/salaartwt">
-    <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+    <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" width="30"/>
   </a>
   <a href="mailto:mohdanasdharar@gmail.com">
     <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
