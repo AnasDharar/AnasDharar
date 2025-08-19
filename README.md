@@ -1,17 +1,19 @@
-<center> 
+<span align="center">
 
 # Hello, I am Anas Dharar
 
 ![](https://komarev.com/ghpvc/?username=AnasDharar)
 
-</center>
+</span>
 
 ## 🛠️ Tech & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
+![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![C++](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png)
+![Django](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png)
+![PostgreSQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png)
+![TailwindCSS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png)
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AnasDharar)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=salaarsenpai)](https://codeforces.com/profile/salaarsenpai)
