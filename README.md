@@ -12,3 +12,6 @@
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/AnasDharar)
