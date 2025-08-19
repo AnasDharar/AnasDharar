@@ -29,3 +29,24 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=salaarsenpai)](https://codeforces.com/profile/salaarsenpai)
 </div>
+
+<div style="display: flex; align-items: center; flex-direction: column;">
+
+## Socials and Contact
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+
+  <a href="https://linkedin.com/in/anasdharar">
+    <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  <a href="https://twitter.com/salaartwt">
+    <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+  </a>
+  <a href="mailto:mohdanasdharar@gmail.com">
+    <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  </a>
+  <a href="https://youtube.com/AnasDharar">
+    <img style="background-color: white; padding: 5px; border-radius: 5px;" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png?raw=true" width="30"/>
+  </a>
+</div>
+</div>
