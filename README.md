@@ -1,5 +1,7 @@
 <h3 align="center"> Hello, I am Anas Dharar</h3>
-![Anas](https://komarev.com/ghpvc/?username=AnasDharar)
+
+![](https://komarev.com/ghpvc/?username=AnasDharar)
+
 ## 🛠️ Tech & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
