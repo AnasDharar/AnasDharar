@@ -27,7 +27,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/salaarsenpai)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=salaarsenpai)](https://codeforces.com/profile/salaarsenpai)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=salaarsenpai)](https://codeforces.com/profile/anasdharar)
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: column;">
